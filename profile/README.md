@@ -6,47 +6,59 @@
 
 ### Equipe:
 
-**Somos formador por 6 membros**
+**Somos formados por 6 membros**
 <div align="center">
   <table>
     <tr align="center">
       <td>
-        <img src="https://github.com/davidmacalister.png" width="120px" style="border-radius: 50%;" alt="Foto de David"/>
+        <a href="https://github.com/davidmacalister" target="_blank">
+          <img src="https://github.com/davidmacalister.png" width="120px" style="border-radius: 50%;" alt="Foto de David"/>
+        </a>
         <br>
         <b>David</b>
         <br>
         <i>Fundador</i>
       </td>
       <td>
-        <img src="https://github.com/oficial-dazai.png" width="120px" style="border-radius: 50%;" alt="Foto de Dazai"/>
+        <a href="https://github.com/oficial-dazai" target="_blank">
+          <img src="https://github.com/oficial-dazai.png" width="120px" style="border-radius: 50%;" alt="Foto de Dazai"/>
+        </a>
         <br>
         <b>Dazai</b>
         <br>
         <i>Desenvolvedor</i>
       </td>
       <td>
-        <img src="https://github.com/TheAG1.png" width="120px" style="border-radius: 50%;" alt="Foto de AG1"/>
+        <a href="https://github.com/TheAG1" target="_blank">
+          <img src="https://github.com/TheAG1.png" width="120px" style="border-radius: 50%;" alt="Foto de AG1"/>
+        </a>
         <br>
         <b>AG1</b>
         <br>
         <i>Mapper</i>
       </td>
       <td>
-        <img src="https://github.com/Jv132.png" width="120px" style="border-radius: 50%;" alt="Foto de Jv132"/>
+        <a href="https://github.com/Jv132" target="_blank">
+          <img src="https://github.com/Jv132.png" width="120px" style="border-radius: 50%;" alt="Foto de Jv132"/>
+        </a>
         <br>
         <b>Jv132</b>
         <br>
         <i>Tradutor</i>
       </td>
       <td>
-        <img src="https://github.com/TheoVMDM2.png" width="120px" style="border-radius: 50%;" alt="Foto de TheoVMDM"/>
+        <a href="https://github.com/TheoVMDM2" target="_blank">
+          <img src="https://github.com/TheoVMDM2.png" width="120px" style="border-radius: 50%;" alt="Foto de TheoVMDM"/>
+        </a>
         <br>
         <b>TheoVMDM</b>
         <br>
         <i>Tradutor</i>
       </td>
       <td>
-        <img src="https://github.com/KaPAcomnome.png" width="120px" style="border-radius: 50%;" alt="Foto de KaPA"/>
+        <a href="https://github.com/KaPAcomnome" target="_blank">
+          <img src="https://github.com/KaPAcomnome.png" width="120px" style="border-radius: 50%;" alt="Foto de KaPA"/>
+        </a>
         <br>
         <b>KaPA</b>
         <br>
