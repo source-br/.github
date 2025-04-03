@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <div align="right">
-    <a href="https://github.com/Source-BR/Darkerplusplus/blob/main/Readmes/Brazilian.md" target="_blank">
-        <img src="https://github.com/Source-BR/Darkerplusplus/blob/main/Readmes/images/flag_br.png" height="25" width="25">
+    <a href="https://github.com/source-br/.github/blob/main/readmes/English.md" target="_blank">
+        <img src="https://github.com/source-br/.github/blob/main/imagens/flag_eua.png" height="25" width="25">
     </a>
 </div>
 
