@@ -5,7 +5,7 @@
     </a>
 </div>
 
-![banner](https://github.com/Source-BR/.github/blob/main/imagens/banner.png)
+![banner](https://github.com/source-br/.github/blob/main/imagens/banner_en.png)
 
 ###
 
