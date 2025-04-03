@@ -15,7 +15,7 @@
         <br>
         <b>David</b>
         <br>
-        <i>Fundador e Líder</i>
+        <i>Fundador</i>
       </td>
       <td>
         <img src="https://github.com/oficial-dazai.png" width="120px" style="border-radius: 50%;" alt="Foto de Dazai"/>
