@@ -7,54 +7,54 @@
 ### Equipe:
 
 **Somos formador por 6 membros**
-<table>
-  <tr align="center">
-    <td>
-      <img src="https://github.com/davidmacalister.png" width="100px" alt="Foto de David"/>
-      <br>
-      <b>David</b>
-      <br>
-      Fundador e líder
-    </td>
-    <td>
-      <img src="https://github.com/oficial-dazai.png" width="100px" alt="Foto de Dazai"/>
-      <br>
-      <b>Dazai</b>
-      <br>
-      Desenvolvedor
-    </td>
-    <td>
-      <img src="https://github.com/TheAG1.png" width="100px" alt="Foto de AG1"/>
-      <br>
-      <b>AG1</b>
-      <br>
-      Mapper
-    </td>
-  </tr>
-  <tr align="center">
-    <td>
-      <img src="https://github.com/Jv132.png" width="100px" alt="Foto de Jv132"/>
-      <br>
-      <b>Jv132</b>
-      <br>
-      Tradutor
-    </td>
-    <td>
-      <img src="https://github.com/TheoVMDM2.png" width="100px" alt="Foto de TheoVMDM"/>
-      <br>
-      <b>TheoVMDM</b>
-      <br>
-      Tradutor
-    </td>
-    <td>
-      <img src="https://github.com/KaPAcomnome.png" width="100px" alt="Foto de KaPA"/>
-      <br>
-      <b>KaPA</b>
-      <br>
-      Mapper
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr align="center">
+      <td>
+        <img src="https://github.com/davidmacalister.png" width="120px" style="border-radius: 50%;" alt="Foto de David"/>
+        <br>
+        <b>David</b>
+        <br>
+        <i>Fundador e Líder</i>
+      </td>
+      <td>
+        <img src="https://github.com/oficial-dazai.png" width="120px" style="border-radius: 50%;" alt="Foto de Dazai"/>
+        <br>
+        <b>Dazai</b>
+        <br>
+        <i>Desenvolvedor</i>
+      </td>
+      <td>
+        <img src="https://github.com/TheAG1.png" width="120px" style="border-radius: 50%;" alt="Foto de AG1"/>
+        <br>
+        <b>AG1</b>
+        <br>
+        <i>Mapper</i>
+      </td>
+      <td>
+        <img src="https://github.com/Jv132.png" width="120px" style="border-radius: 50%;" alt="Foto de Jv132"/>
+        <br>
+        <b>Jv132</b>
+        <br>
+        <i>Tradutor</i>
+      </td>
+      <td>
+        <img src="https://github.com/TheoVMDM2.png" width="120px" style="border-radius: 50%;" alt="Foto de TheoVMDM"/>
+        <br>
+        <b>TheoVMDM</b>
+        <br>
+        <i>Tradutor</i>
+      </td>
+      <td>
+        <img src="https://github.com/KaPAcomnome.png" width="120px" style="border-radius: 50%;" alt="Foto de KaPA"/>
+        <br>
+        <b>KaPA</b>
+        <br>
+        <i>Mapper</i>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### Doar:
 
