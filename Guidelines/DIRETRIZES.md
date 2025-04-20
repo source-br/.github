@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <div align="right">
     <a href="https://github.com/source-br/.github/blob/main/Guidelines/GUIDELINES.md" target="_blank">
-        <img src="https://github.com/source-br/.github/blob/main/imagens/flag_eua.png" height="25" width="25">
+        <img src="https://github.com/source-br/.github/blob/main/images/flag_eua.png" height="25" width="25">
     </a>
 </div>
 
-![](../imagens/diretrizes.png)
+![](../images/diretrizes.png)
 
 ![Version](https://img.shields.io/badge/Diretrizes-V.1-43ff43.svg)
 

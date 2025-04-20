@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <div align="right">
     <a href="https://github.com/source-br/.github/blob/main/readmes/English.md" target="_blank">
-        <img src="https://github.com/source-br/.github/blob/main/imagens/flag_eua.png" height="25" width="25">
+        <img src="https://github.com/source-br/.github/blob/main/images/flag_eua.png" height="25" width="25">
     </a>
 </div>
 
-![banner](https://github.com/Source-BR/.github/blob/main/imagens/banner.png)
+![banner](https://github.com/Source-BR/.github/blob/main/images/banner.png)
 
 ###
 [![Version](https://img.shields.io/badge/Diretrizes-V.1-43ff43.svg)](https://github.com/source-br/.github/blob/main/Guidelines/DIRETRIZES.md)
