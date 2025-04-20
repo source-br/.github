@@ -9,6 +9,8 @@
 
 ###
 
+[![Version](https://img.shields.io/badge/Guidelines-V.1-43ff43.svg)](https://github.com/source-br/.github/blob/main/Guidelines/GUIDELINES.md)
+
 ### Team:
 
 **We are a team of 6 members**
