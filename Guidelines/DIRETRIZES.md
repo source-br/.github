@@ -1,25 +1,34 @@
-# Diretrizes de Colaboração - Source BR
+![](../imagens/diretrizes.png)
 
-Bem-vindo ao repositório oficial da **Source BR**!  
+![Version](https://img.shields.io/badge/Diretrizes-V.1-43ff43.svg) 
+
+Bem-vindo(a)!  
 Antes de contribuir com qualquer projeto, leia atentamente as diretrizes abaixo para entender como trabalhamos, nossos requisitos e as boas práticas esperadas.
 
-## 🛠️ Como Trabalhamos
+## Como Trabalhamos
 
-Na Source BR, prezamos pela qualidade, coerência e clareza em todas as nossas traduções e projetos relacionados à comunidade Source. Para isso, seguimos algumas regras e políticas internas:
+Prezamos pela qualidade, coerência e clareza em todas as nossas traduções e projetos relacionados à tradução. Para isso, seguimos algumas regras e políticas internas:
 
-- **Idioma de Origem**: Só traduzimos conteúdos que estão originalmente em inglês (ou no idioma pretendido que o jogador final entenda). Isso garante a fidelidade e precisão do conteúdo.
-- **Gestão Centralizada**: Todas as traduções e decisões finais são gerenciadas pela equipe principal da Source BR.  
+- **Idioma de Origem**: Só traduzimos conteúdos que estão originalmente em inglês (ou no idioma pretendido que o jogador final entenda). Isso garante a fidelidade e imerção do conteúdo.
+
+- **Gestão Central**: Todas as traduções e decisões finais são gerenciadas pela equipe principal da Source BR.  
   Colaboradores podem sugerir alterações, correções e enviar suas traduções para a gente, mas a validação final é sempre feita por nós.
+
+- **Apoio**: Nós estamos centrte dispostos a ajudar os colaboradores a traduzir os nossos projetos para o seu idioma, criando documentações e conversando diretamente pelo Discord.
+
 - **Créditos**: Toda contribuição será devidamente reconhecida. Os colaboradores que participarem de projetos receberão créditos apropriados nos arquivos/documentação final.
 
-## 🤝 Boas Condutas
+## Boas Condutas
 
-- **Respeito acima de tudo**: Respeite os outros membros e suas opiniões. Não toleramos qualquer tipo de discriminação ou assédio.
+- **Respeito acima de tudo**: Respeite os outros membros da equipe e colaboradores.
+
 - **Seja claro e objetivo**: Ao sugerir mudanças ou correções, explique seu raciocínio e forneça exemplos sempre que possível.
+
 - **Siga o estilo do projeto**: Cada projeto pode ter suas particularidades (ex: formatação, tom da linguagem). Certifique-se de seguir o padrão estabelecido.
+
 - **Revise antes de enviar**: Erros simples podem ser evitados com uma revisão rápida. Agradecemos o cuidado!
 
-## 📬 Comunicação
+## Comunicação
 
 Tem alguma dúvida, sugestão ou encontrou um erro? Entre em contato conosco pelos nossos canais oficiais:
 
@@ -27,7 +36,7 @@ Tem alguma dúvida, sugestão ou encontrou um erro? Entre em contato conosco pel
 
 Ou abra uma *issue* diretamente no repositório, caso seu comentário esteja relacionado a ao projeto.
 
-## 🙌 Obrigado!
+## Obrigado!
 
 Agradecemos sua colaboração e interesse em fazer parte da Source BR.  
-Juntos, podemos manter viva a comunidade da Source Engine no Brasil!
+Juntos, podemos manter viva a comunidade da Source Engine!
