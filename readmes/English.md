@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <div align="right">
     <a href="https://github.com/source-br/.github/blob/main/profile/README.md" target="_blank">
-        <img src="https://github.com/source-br/.github/blob/main/imagens/flag_br.png" height="25" width="25">
+        <img src="https://github.com/source-br/.github/blob/main/images/flag_br.png" height="25" width="25">
     </a>
 </div>
 
-![banner](https://github.com/source-br/.github/blob/main/imagens/banner_en.png)
+![banner](https://github.com/source-br/.github/blob/main/images/banner_en.png)
 
 ###
 
-[![Version](https://img.shields.io/badge/Guidelines-V.1-43ff43.svg)](https://github.com/source-br/.github/blob/main/Guidelines/GUIDELINES.md)
+[![Version](https://img.shields.io/badge/Guidelines-V.1-43ff43.svg)](https://github.com/source-br/.github/blob/main/guidelines/guidelines.md)
 
 ### Team:
 
@@ -46,7 +46,7 @@
       </td>
       <td>
         <a href="https://github.com/Jv132" target="_blank">
-          <img src="https://github.com/source-br/.github/blob/main/imagens/jv.png" width="120px" style="border-radius: 50%;" alt="Photo of Jv132"/>
+          <img src="https://github.com/source-br/.github/blob/main/images/jv.png" width="120px" style="border-radius: 50%;" alt="Photo of Jv132"/>
         </a>
         <br>
         <b>Jv132</b>

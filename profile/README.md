@@ -8,7 +8,7 @@
 ![banner](https://github.com/Source-BR/.github/blob/main/images/banner.png)
 
 ###
-[![Version](https://img.shields.io/badge/Diretrizes-V.1-43ff43.svg)](https://github.com/source-br/.github/blob/main/Guidelines/DIRETRIZES.md)
+[![Version](https://img.shields.io/badge/Diretrizes-V.1-43ff43.svg)](https://github.com/source-br/.github/blob/main/guidelines/diretrizes.md)
 
 ### Equipe:
 
@@ -45,7 +45,7 @@
       </td>
       <td>
         <a href="https://github.com/Jv132" target="_blank">
-          <img src="https://github.com/source-br/.github/blob/main/imagens/jv.png" width="120px" style="border-radius: 50%;" alt="Foto de Jv132"/>
+          <img src="https://github.com/source-br/.github/blob/main/images/jv.png" width="120px" style="border-radius: 50%;" alt="Foto de Jv132"/>
         </a>
         <br>
         <b>Jv132</b>
