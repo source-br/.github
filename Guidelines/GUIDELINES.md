@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<div align="right">
+    <a href="https://github.com/source-br/.github/blob/main/Guidelines/DIRETRIZES.md" target="_blank">
+        <img src="https://github.com/source-br/.github/blob/main/imagens/flag_br.png" height="25" width="25">
+    </a>
+</div>
+
 ![](../imagens/guidelines.png)
 
 ![Version](https://img.shields.io/badge/Guidelines-V.1-43ff43.svg)
