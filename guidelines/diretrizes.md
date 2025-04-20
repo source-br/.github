@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <div align="right">
-    <a href="https://github.com/source-br/.github/blob/main/Guidelines/GUIDELINES.md" target="_blank">
+    <a href="https://github.com/source-br/.github/blob/main/guidelines/guidelines.md" target="_blank">
         <img src="https://github.com/source-br/.github/blob/main/images/flag_eua.png" height="25" width="25">
     </a>
 </div>
