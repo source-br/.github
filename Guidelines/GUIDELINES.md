@@ -9,7 +9,7 @@
 
 ![Version](https://img.shields.io/badge/Guidelines-V.1-43ff43.svg)
 
-Welcome!  
+Welcome to our guidelines!   
 Before contributing to any project, please read the guidelines below carefully to understand how we work, our requirements, and the best practices we expect.
 
 ## How We Work

@@ -10,7 +10,7 @@
 ![Version](https://img.shields.io/badge/Diretrizes-V.1-43ff43.svg)
 
 
-Bem-vindo(a)!  
+Bem-vindo(a) as nossas diretrizes!  
 Antes de contribuir com qualquer projeto, leia atentamente as diretrizes abaixo para entender como trabalhamos, nossos requisitos e as boas práticas esperadas.
 
 ## Como Trabalhamos
