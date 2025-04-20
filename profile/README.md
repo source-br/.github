@@ -8,7 +8,7 @@
 ![banner](https://github.com/Source-BR/.github/blob/main/imagens/banner.png)
 
 ###
-[![Version](https://img.shields.io/badge/Diretrizes-V.1-43ff43.svg)](s://github.com/source-br/.github/blob/main/Guidelines/DIRETRIZES.md)
+[![Version](https://img.shields.io/badge/Diretrizes-V.1-43ff43.svg)](https://github.com/source-br/.github/blob/main/Guidelines/DIRETRIZES.md)
 
 ### Equipe:
 
