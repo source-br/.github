@@ -35,6 +35,8 @@ We value quality, consistency, and clarity in all our translations and translati
 
 - **Review before submitting**: Simple mistakes can be avoided with a quick review. We appreciate your care!
 
+- **Credits**: When using, distributing, or modifying any of our projects, please give proper credit.
+
 ## Communication
 
 Have questions, suggestions, or found an error? Contact us through our official channels:
@@ -42,8 +44,3 @@ Have questions, suggestions, or found an error? Contact us through our official 
 <a href="https://discord.gg/tVNv6SNZZT" target="_blank"><img src="https://img.shields.io/badge/-discord-0D1117?style=for-the-badge&logo=discord&logoColor=#5865F2&labelColor=0D1117" target="_blank"></a>
 
 Or open an *issue* directly in the repository if your comment is project-related.
-
-## Thank You!
-
-We appreciate your collaboration and interest in being a part of Source BR.  
-Together, we can keep the Source Engine community alive!

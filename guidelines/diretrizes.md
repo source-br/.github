@@ -36,6 +36,8 @@ Prezamos pela qualidade, coerência e clareza em todas as nossas traduções e p
 
 - **Revise antes de enviar**: Erros simples podem ser evitados com uma revisão rápida. Agradecemos o cuidado!
 
+- **Créditos**: Ao usar, distribuir ou alterar algum projeto nosso, dê os devidos créditos.
+
 ## Comunicação
 
 Tem alguma dúvida, sugestão ou encontrou um erro? Entre em contato conosco pelos nossos canais oficiais:
@@ -43,8 +45,3 @@ Tem alguma dúvida, sugestão ou encontrou um erro? Entre em contato conosco pel
 <a href="https://discord.gg/tVNv6SNZZT" target="_blank"><img src="https://img.shields.io/badge/-discord-0D1117?style=for-the-badge&logo=discord&logoColor=#5865F2&labelColor=0D1117" target="_blank"></a>
 
 Ou abra uma *issue* diretamente no repositório, caso seu comentário esteja relacionado a ao projeto.
-
-## Obrigado!
-
-Agradecemos sua colaboração e interesse em fazer parte da Source BR.  
-Juntos, podemos manter viva a comunidade da Source Engine!
