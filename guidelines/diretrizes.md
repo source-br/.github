@@ -22,7 +22,7 @@ Prezamos pela qualidade, coerência e clareza em todas as nossas traduções e p
 - **Gestão Central**: Todas as traduções e decisões finais são gerenciadas pela equipe principal da Source BR.  
   Colaboradores podem sugerir alterações, correções e enviar suas traduções para a gente, mas a validação final é sempre feita por nós.
 
-- **Apoio**: Nós estamos centrte dispostos a ajudar os colaboradores a traduzir os nossos projetos para o seu idioma, criando documentações e conversando diretamente pelo Discord.
+- **Apoio**: Nós estamos dispostos a ajudar os colaboradores a traduzir os nossos projetos para o seu idioma, criando documentações e conversando diretamente pelo Discord.
 
 - **Créditos**: Toda contribuição será devidamente reconhecida. Os colaboradores que participarem de projetos receberão créditos apropriados nos arquivos/documentação final.
 
