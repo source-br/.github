@@ -27,8 +27,8 @@
         <i>Founder</i>
       </td>
       <td>
-        <a href="https://github.com/oficial-dazai" target="_blank">
-          <img src="https://github.com/oficial-dazai.png" width="120px" style="border-radius: 50%;" alt="Photo of Dazai"/>
+        <a href="https://github.com/kenned-candido" target="_blank">
+          <img src="https://github.com/kenned-candido.png" width="120px" style="border-radius: 50%;" alt="Photo of Dazai"/>
         </a>
         <br>
         <b>Dazai</b>
