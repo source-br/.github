@@ -5,10 +5,11 @@
     </a>
 </div>
 
-![banner](../img/banner.png)
+![banner](../img/banner-br.png)
 
 ###
-[![Version](https://img.shields.io/badge/Nossas-Diretrizes-43ff43.svg)](../guidelines/diretrizes.md)
+
+[![Version](https://img.shields.io/badge/Diretrizes-V%201.0-43ff43.svg)](../guidelines/diretrizes.md)
 
 ### Equipe:
 
