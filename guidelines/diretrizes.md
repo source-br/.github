@@ -1,13 +1,11 @@
 <!DOCTYPE html>
 <div align="right">
-    <a href="https://github.com/source-br/.github/blob/main/guidelines/guidelines.md" target="_blank">
-        <img src="https://github.com/source-br/.github/blob/main/images/flag_eua.png" height="25" width="25">
+    <a href="../guidelines/guidelines.md" target="_blank">
+        <img src="../img/flags/flag_eua.png" height="25" width="25">
     </a>
 </div>
 
-![](../images/diretrizes.png)
-
-![Version](https://img.shields.io/badge/Diretrizes-V.1-43ff43.svg)
+![](../img/diretrizes.png)
 
 ## Bem-vindo(a) às nossas diretrizes!
 Antes de contribuir com qualquer projeto, leia atentamente as diretrizes abaixo para entender como trabalhamos, nossos requisitos e as boas práticas esperadas.

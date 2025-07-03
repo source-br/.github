@@ -1,43 +1,42 @@
 <!DOCTYPE html>
 <div align="right">
-    <a href="https://github.com/source-br/.github/blob/main/profile/README.md" target="_blank">
-        <img src="https://github.com/source-br/.github/blob/main/images/flag_br.png" height="25" width="25">
+    <a href="../profile/README.md" target="_blank">
+        <img src="../img/flags/flag_eua.png" height="25" width="25">
     </a>
 </div>
 
-![banner](https://github.com/source-br/.github/blob/main/images/banner_en.png)
+![banner](../img/banner.png)
 
 ###
+[![Version](https://img.shields.io/badge/Nossas-Diretrizes-43ff43.svg)](../guidelines/diretrizes.md)
 
-[![Version](https://img.shields.io/badge/Guidelines-V.1-43ff43.svg)](https://github.com/source-br/.github/blob/main/guidelines/guidelines.md)
+### Equipe:
 
-### Team:
-
-**We are a team of 6 members**
+**Somos formados por 6 membros**
 <div align="center">
   <table>
     <tr align="center">
       <td>
         <a href="https://github.com/davidmacalister" target="_blank">
-          <img src="https://github.com/davidmacalister.png" width="120px" style="border-radius: 50%;" alt="Photo of David"/>
+          <img src="https://github.com/davidmacalister.png" width="120px" style="border-radius: 50%;" alt="Foto de David"/>
         </a>
         <br>
         <b>David</b>
         <br>
-        <i>Founder</i>
+        <i>Fundador</i>
       </td>
       <td>
         <a href="https://github.com/kenned-candido" target="_blank">
-          <img src="https://github.com/kenned-candido.png" width="120px" style="border-radius: 50%;" alt="Photo of Dazai"/>
+          <img src="https://github.com/kenned-candido.png" width="120px" style="border-radius: 50%;" alt="Foto de Dazai"/>
         </a>
         <br>
         <b>Dazai</b>
         <br>
-        <i>Developer</i>
+        <i>Desenvolvedor</i>
       </td>
       <td>
         <a href="https://github.com/TheAG1" target="_blank">
-          <img src="https://github.com/TheAG1.png" width="120px" style="border-radius: 50%;" alt="Photo of AG1"/>
+          <img src="https://github.com/TheAG1.png" width="120px" style="border-radius: 50%;" alt="Foto de AG1"/>
         </a>
         <br>
         <b>AG1</b>
@@ -46,25 +45,25 @@
       </td>
       <td>
         <a href="https://github.com/Jv132" target="_blank">
-          <img src="https://github.com/source-br/.github/blob/main/images/jv.png" width="120px" style="border-radius: 50%;" alt="Photo of Jv132"/>
+          <img src="../img/jv.png" width="120px" style="border-radius: 50%;" alt="Foto de Jv132"/>
         </a>
         <br>
         <b>Jv132</b>
         <br>
-        <i>Translator</i>
+        <i>Tradutor</i>
       </td>
       <td>
         <a href="https://github.com/TheoVMDM2" target="_blank">
-          <img src="https://github.com/TheoVMDM2.png" width="120px" style="border-radius: 50%;" alt="Photo of TheoVMDM"/>
+          <img src="https://github.com/TheoVMDM2.png" width="120px" style="border-radius: 50%;" alt="Foto de TheoVMDM"/>
         </a>
         <br>
         <b>TheoVMDM</b>
         <br>
-        <i>Translator</i>
+        <i>Tradutor</i>
       </td>
       <td>
         <a href="https://github.com/KaPAcomnome" target="_blank">
-          <img src="https://github.com/KaPAcomnome.png" width="120px" style="border-radius: 50%;" alt="Photo of KaPA"/>
+          <img src="https://github.com/KaPAcomnome.png" width="120px" style="border-radius: 50%;" alt="Foto de KaPA"/>
         </a>
         <br>
         <b>KaPA</b>
@@ -75,9 +74,9 @@
   </table>
 </div>
 
-### Donate:
+### Doar:
 
-If you like our work, consider supporting us in developing our projects. By supporting us, you help us continue creating even more projects ❤️
+Se você gosta do nosso trabalho, considere nos dar suporte para o desenvolvimento dos projetos. Ao nos dar suporte, você nos ajuda a continuar desenvolvendo ainda mais projetos ❤️
 
 <a href="https://nubank.com.br/cobrar/1na00u/67594881-0eb2-45fc-b73c-7d065d9ba400" target="_blank"><img src="https://img.shields.io/badge/-nubank-0D1117?style=for-the-badge&logo=nubank&logoColor=820AD1&labelColor=0D1117" target="_blank"></a>
 <a href="https://www.paypal.com/donate/?business=AUZRQZ6DZZAPQ&no_recurring=0&currency_code=USD" target="_blank"><img src="https://img.shields.io/badge/-paypal-0D1117?style=for-the-badge&logo=paypal&logoColor=003087&labelColor=0D1117" target="_blank"></a>
@@ -85,4 +84,4 @@ If you like our work, consider supporting us in developing our projects. By supp
 ##
 
 > [!NOTE]
-> If you use any project made by us from one of our repositories, we kindly ask you to give proper credit.
+> Se você for utilizar algum projeto feito por nós de algum repositório nosso, pedimos que coloque os devidos créditos.
