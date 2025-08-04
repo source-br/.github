@@ -42,7 +42,7 @@
         <br>
         <b>AG1</b>
         <br>
-        <i>Mapper and translator</i>
+        <i>Translator</i>
       </td>
       <td>
         <a href="https://github.com/Jv132" target="_blank">
