@@ -51,7 +51,7 @@
         <br>
         <b>Jv132</b>
         <br>
-        <i>graphic editor</i>
+        <i>Graphic editor</i>
       </td>
       <td>
         <a href="https://github.com/TheoVMDM2" target="_blank">
@@ -60,7 +60,7 @@
         <br>
         <b>TheoVMDM</b>
         <br>
-        <i>graphic editor</i>
+        <i>Graphic editor</i>
       </td>
       <td>
         <a href="https://github.com/KaPAcomnome" target="_blank">
