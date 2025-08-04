@@ -42,7 +42,7 @@
         <br>
         <b>AG1</b>
         <br>
-        <i>Mapper</i>
+        <i>Mapper and translator</i>
       </td>
       <td>
         <a href="https://github.com/Jv132" target="_blank">
@@ -51,7 +51,7 @@
         <br>
         <b>Jv132</b>
         <br>
-        <i>Translator</i>
+        <i>graphic editor</i>
       </td>
       <td>
         <a href="https://github.com/TheoVMDM2" target="_blank">
@@ -60,7 +60,7 @@
         <br>
         <b>TheoVMDM</b>
         <br>
-        <i>Translator</i>
+        <i>graphic editor</i>
       </td>
       <td>
         <a href="https://github.com/KaPAcomnome" target="_blank">
