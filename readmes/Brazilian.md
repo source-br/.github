@@ -9,7 +9,7 @@
 
 ###
 
-[![Version](https://img.shields.io/badge/Diretrizes-V%201.0-43ff43.svg)](../guidelines/diretrizes.md)
+[![Version](https://img.shields.io/badge/Diretrizes-BR-43ff43.svg)](../guidelines/diretrizes.md)
 
 ### Equipe:
 
@@ -42,7 +42,7 @@
         <br>
         <b>AG1</b>
         <br>
-        <i>Mapper</i>
+        <i>Tradutor</i>
       </td>
       <td>
         <a href="https://github.com/Jv132" target="_blank">
@@ -51,7 +51,7 @@
         <br>
         <b>Jv132</b>
         <br>
-        <i>Tradutor</i>
+        <i>Editor Gráfico</i>
       </td>
       <td>
         <a href="https://github.com/TheoVMDM2" target="_blank">
@@ -60,7 +60,7 @@
         <br>
         <b>TheoVMDM</b>
         <br>
-        <i>Tradutor</i>
+        <i>Editor Gráfico</i>
       </td>
       <td>
         <a href="https://github.com/KaPAcomnome" target="_blank">
@@ -69,7 +69,7 @@
         <br>
         <b>KaPA</b>
         <br>
-        <i>Mapper</i>
+        <i>Editor de Mapas</i>
       </td>
     </tr>
   </table>
@@ -77,11 +77,10 @@
 
 ### Doar:
 
-Se você gosta do nosso trabalho, considere nos dar suporte para o desenvolvimento dos projetos. Ao nos dar suporte, você nos ajuda a continuar desenvolvendo ainda mais projetos ❤️
+Se você gosta do nosso trabalho, considere nos dar suporte para o desenvolvimento dos projetos. Ao nos dar suporte, você nos ajuda a continuar desenvolvendo ainda mais projetos 💚
 
-[![Sponsor](https://img.shields.io/badge/-sponsor-0D1117?style=for-the-badge&logo=githubsponsors&labelColor=0D1117)](https://github.com/sponsors/kenned-candido)
-[![Nubank](https://img.shields.io/badge/-nubank-0D1117?style=for-the-badge&logo=nubank&logoColor=820AD1&labelColor=0D1117)](https://nubank.com.br/cobrar/1na00u/67594881-0eb2-45fc-b73c-7d065d9ba400)
-[![PayPal](https://img.shields.io/badge/-paypal-0D1117?style=for-the-badge&logo=paypal&logoColor=003087&labelColor=0D1117)](https://www.paypal.com/donate/?business=AUZRQZ6DZZAPQ&no_recurring=0&currency_code=USD)
+[![Nubank](https://img.shields.io/badge/-💚%20DOAR-0D1117?style=for-the-badge&labelColor=0D1117)](https://www.sourcebr.com.br/doar)
+
 
 ##
 

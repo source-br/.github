@@ -9,7 +9,7 @@
 
 ###
 
-[![Version](https://img.shields.io/badge/Guidelines-V%201.0-43ff43.svg)](../guidelines/guidelines.md)
+[![Version](https://img.shields.io/badge/Guidelines-EN-43ff43.svg)](../guidelines/guidelines.md)
 
 ### Team:
 
@@ -77,7 +77,7 @@
 
 ### Donate:
 
-If you like our work, consider supporting us in developing our projects. By supporting us, you help us continue creating even more projects ❤️
+If you like our work, consider supporting us in developing our projects. By supporting us, you help us continue creating even more projects 💚
 
 [![Sponsor](https://img.shields.io/badge/-sponsor-0D1117?style=for-the-badge&logo=githubsponsors&labelColor=0D1117)](https://github.com/sponsors/kenned-candido)
 [![Nubank](https://img.shields.io/badge/-nubank-0D1117?style=for-the-badge&logo=nubank&logoColor=820AD1&labelColor=0D1117)](https://nubank.com.br/cobrar/1na00u/67594881-0eb2-45fc-b73c-7d065d9ba400)
