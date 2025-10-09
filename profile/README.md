@@ -31,7 +31,7 @@
           <img src="https://github.com/kenned-candido.png" width="120px" style="border-radius: 50%;" alt="Photo of Dazai"/>
         </a>
         <br>
-        <b>Dazai</b>
+        <b>Kenned</b>
         <br>
         <i>Developer</i>
       </td>
