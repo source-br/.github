@@ -13,7 +13,7 @@
 
 ### Equipe:
 
-**Somos formados por 6 membros**
+**Somos formados por 7 membros**
 <div align="center">
   <table>
     <tr align="center">
@@ -70,6 +70,15 @@
         <b>KaPA</b>
         <br>
         <i>Editor de Mapas</i>
+      </td>
+      <td>
+        <a href="https://github.com/ZeraaMan14" target="_blank">
+          <img src="../img/zeraa.png" width="120px" style="border-radius: 50%;" alt="Photo of KaPA"/>
+        </a>
+        <br>
+        <b>ZeraaMan14</b>
+        <br>
+        <i>Revisor</i>
       </td>
     </tr>
   </table>

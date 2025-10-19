@@ -13,7 +13,7 @@
 
 ### Team:
 
-**We are a team of 6 members**
+**We are a team of 7 members**
 <div align="center">
   <table>
     <tr align="center">
@@ -71,6 +71,15 @@
         <br>
         <i>Mapper</i>
       </td>
+      <td>
+        <a href="https://github.com/ZeraaMan14" target="_blank">
+          <img src="../img/zeraa.png" width="120px" style="border-radius: 50%;" alt="Photo of KaPA"/>
+        </a>
+        <br>
+        <b>ZeraaMan14</b>
+        <br>
+        <i>Proofreader</i>
+      </td> 
     </tr>
   </table>
 </div>
