@@ -19,7 +19,7 @@
     <tr align="center">
       <td>
         <a href="https://github.com/davidmacalister" target="_blank">
-          <img src="https://github.com/davidmacalister.png" width="120px" style="border-radius: 50%;" alt="Photo of David"/>
+          <img src="../img/david.gif" width="120px" alt="Photo of David"/>
         </a>
         <br>
         <b>David</b>
@@ -28,7 +28,7 @@
       </td>
       <td>
         <a href="https://github.com/kenned-candido" target="_blank">
-          <img src="https://github.com/kenned-candido.png" width="120px" style="border-radius: 50%;" alt="Photo of Dazai"/>
+          <img src="../img/kenned.gif" width="120px" alt="Photo of Dazai"/>
         </a>
         <br>
         <b>Kenned</b>
@@ -37,7 +37,7 @@
       </td>
       <td>
         <a href="https://github.com/TheAG1" target="_blank">
-          <img src="https://github.com/TheAG1.png" width="120px" style="border-radius: 50%;" alt="Photo of AG1"/>
+          <img src="../img/ag1.png" width="120px" alt="Photo of AG1"/>
         </a>
         <br>
         <b>AG1</b>
@@ -46,7 +46,7 @@
       </td>
       <td>
         <a href="https://github.com/Jv132" target="_blank">
-          <img src="../img/jv.png" width="120px" style="border-radius: 50%;" alt="Photo of Jv132"/>
+          <img src="../img/jv.gif" width="120px" alt="Photo of Jv132"/>
         </a>
         <br>
         <b>Jv132</b>
@@ -55,7 +55,7 @@
       </td>
       <td>
         <a href="https://github.com/TheoVMDM2" target="_blank">
-          <img src="https://github.com/TheoVMDM2.png" width="120px" style="border-radius: 50%;" alt="Photo of TheoVMDM"/>
+          <img src="../img/theo.gif" width="120px" alt="Photo of TheoVMDM"/>
         </a>
         <br>
         <b>TheoVMDM</b>
@@ -64,7 +64,7 @@
       </td>
       <td>
         <a href="https://github.com/KaPAcomnome" target="_blank">
-          <img src="https://github.com/KaPAcomnome.png" width="120px" style="border-radius: 50%;" alt="Photo of KaPA"/>
+          <img src="../img/kapa.gif" width="120px" alt="Photo of KaPA"/>
         </a>
         <br>
         <b>KaPA</b>

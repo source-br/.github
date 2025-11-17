@@ -19,7 +19,7 @@
     <tr align="center">
       <td>
         <a href="https://github.com/davidmacalister" target="_blank">
-          <img src="https://github.com/davidmacalister.png" width="120px" style="border-radius: 50%;" alt="Foto de David"/>
+          <img src="../img/david.gif" width="120px" alt="Foto de David"/>
         </a>
         <br>
         <b>David</b>
@@ -28,16 +28,16 @@
       </td>
       <td>
         <a href="https://github.com/kenned-candido" target="_blank">
-          <img src="https://github.com/kenned-candido.png" width="120px" style="border-radius: 50%;" alt="Foto de Dazai"/>
+          <img src="../img/kenned.gif" width="120px" alt="Foto de Dazai"/>
         </a>
         <br>
-        <b>Dazai</b>
+        <b>Kenned</b>
         <br>
         <i>Desenvolvedor</i>
       </td>
       <td>
         <a href="https://github.com/TheAG1" target="_blank">
-          <img src="https://github.com/TheAG1.png" width="120px" style="border-radius: 50%;" alt="Foto de AG1"/>
+          <img src="../img/ag1.png" width="120px" alt="Foto de AG1"/>
         </a>
         <br>
         <b>AG1</b>
@@ -46,7 +46,7 @@
       </td>
       <td>
         <a href="https://github.com/Jv132" target="_blank">
-          <img src="../img/jv.png" width="120px" style="border-radius: 50%;" alt="Foto de Jv132"/>
+          <img src="../img/jv.gif" width="120px" alt="Foto de Jv132"/>
         </a>
         <br>
         <b>Jv132</b>
@@ -55,7 +55,7 @@
       </td>
       <td>
         <a href="https://github.com/TheoVMDM2" target="_blank">
-          <img src="https://github.com/TheoVMDM2.png" width="120px" style="border-radius: 50%;" alt="Foto de TheoVMDM"/>
+          <img src="../img/theo.gif" width="120px" alt="Foto de TheoVMDM"/>
         </a>
         <br>
         <b>TheoVMDM</b>
@@ -64,7 +64,7 @@
       </td>
       <td>
         <a href="https://github.com/KaPAcomnome" target="_blank">
-          <img src="https://github.com/KaPAcomnome.png" width="120px" style="border-radius: 50%;" alt="Foto de KaPA"/>
+          <img src="../img/kapa.gif" width="120px" alt="Foto de KaPA"/>
         </a>
         <br>
         <b>KaPA</b>
@@ -73,7 +73,7 @@
       </td>
       <td>
         <a href="https://github.com/ZeraaMan14" target="_blank">
-          <img src="../img/zeraa.png" width="120px" style="border-radius: 50%;" alt="Photo of KaPA"/>
+          <img src="../img/zeraa.png" width="120px" alt="Photo of Zeraa"/>
         </a>
         <br>
         <b>ZeraaMan14</b>
