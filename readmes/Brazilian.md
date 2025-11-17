@@ -37,7 +37,7 @@
       </td>
       <td>
         <a href="https://github.com/TheAG1" target="_blank">
-          <img src="../img/ag1.png" width="120px" alt="Foto de AG1"/>
+          <img src="../img/ag1.gif" width="120px" alt="Foto de AG1"/>
         </a>
         <br>
         <b>AG1</b>
