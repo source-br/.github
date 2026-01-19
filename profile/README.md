@@ -33,7 +33,7 @@
         <br>
         <b>Kenned</b>
         <br>
-        <i>Developer</i>
+        <i>Co-owner</i>
       </td>
       <td>
         <a href="https://github.com/TheAG1" target="_blank">
