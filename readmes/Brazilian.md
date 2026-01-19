@@ -33,7 +33,7 @@
         <br>
         <b>Kenned</b>
         <br>
-        <i>Desenvolvedor</i>
+        <i>Sub-dono</i>
       </td>
       <td>
         <a href="https://github.com/TheAG1" target="_blank">
