@@ -9,7 +9,7 @@
 
 ###
 
-[![Version](https://img.shields.io/badge/Diretrizes-BR-43ff43.svg)](../guidelines/diretrizes.md)
+[![Version](https://img.shields.io/badge/Diretrizes-BR-9effad.svg)](../guidelines/diretrizes.md)
 
 
 ### Doar:

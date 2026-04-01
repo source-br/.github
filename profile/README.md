@@ -9,7 +9,7 @@
 
 ###
 
-[![Version](https://img.shields.io/badge/Guidelines-EN-43ff43.svg)](../guidelines/guidelines.md)
+[![Version](https://img.shields.io/badge/Guidelines-EN-9effad.svg)](../guidelines/guidelines.md)
 
 ### Donate:
 
