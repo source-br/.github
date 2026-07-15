@@ -11,12 +11,6 @@
 
 [![Version](https://img.shields.io/badge/Guidelines-EN-9effad.svg)](../guidelines/guidelines.md)
 
-### Donate:
-
-If you like our work, consider supporting us in developing our projects. By supporting us, you help us continue creating even more projects 💚
-
- [![Donate](https://img.shields.io/badge/-💚%20Donate-0D1117?style=for-the-badge&labelColor=0D1117)](https://www.sourcebr.com.br/doar)
-
 ##
 
 > [!NOTE]
